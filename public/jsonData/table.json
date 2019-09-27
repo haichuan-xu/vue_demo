@@ -1,0 +1,64 @@
+{
+  "list": [
+    {
+      "productType": "纺织品",
+      "price": 123,
+      "productName": "男装上衣",
+      "amount": 20,
+      "operate_number": "20180831142020",
+      "price": "36.00",
+      "updateTime": "2018-08-31",
+      "operator": "小吴"
+    },
+    {
+      "productType": "纺织品",
+      "price": 123,
+      "productName": "男装裤子",
+      "amount": 20,
+      "operate_number": "20180831142020",
+      "price": "36.00",
+      "updateTime": "2018-08-31",
+      "operator": "小吴"
+    },
+    {
+      "productType": "饮料",
+      "price": 123,
+      "productName": "康师傅冰红茶",
+      "amount": 20,
+      "operate_number": "20180823142020",
+      "price": "36.00",
+      "updateTime": "2018-08-31",
+      "operator": "小吴"
+    },
+    {
+      "productType": "纺织品",
+      "price": 223,
+      "productName": "男装裤子",
+      "amount": 10,
+      "operate_number": "20180821142020",
+      "price": "36.00",
+      "updateTime": "2018-08-31",
+      "operator": "小王"
+    },
+    {
+      "productType": "绸缎",
+      "price": 888,
+      "productName": "旗袍",
+      "amount": 200,
+      "operate_number": "20180821142020",
+      "price": "36.00",
+      "updateTime": "2018-08-31",
+      "operator": "小吴"
+    },
+    {
+      "productType": "绸缎",
+      "price": 123,
+      "productName": "席子",
+      "amount": 20,
+      "operate_number": "20180821142020",
+      "price": "36.00",
+      "updateTime": "2018-08-31",
+      "operator": "小吴"
+    }
+  ]
+}
